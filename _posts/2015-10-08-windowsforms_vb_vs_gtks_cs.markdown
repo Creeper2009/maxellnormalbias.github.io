@@ -2,6 +2,7 @@
 layout: post
 category: stuff
 title: VB WinForms vs. GTK#
+author: Michael
 ---
 Hey there, My name is Michael. I am an admin of Shifted Games Studio, and I chat on #techtalk every now and then. I also program. Though, most of my programming sticks within the realm of the .NET framework and Mono. I recently made the switch from Windows Forms and VB.NET to GTK#, which uses C#. I'm going to tell you why.
 
@@ -21,4 +22,4 @@ Not to mention, the Unity game engine uses C# for scripts, so if you know C#, yo
 
 # Conclusion
 
-So yeah, all-in-all, if you are a VB.NET programmer, I seriously suggest making the switch over to GTK#. Your potential Linux users will thank you. Also, if you REALLY don't want to switch from Visual Studio to MonoDevelop or another IDE built for GTK#, there is a GTK# Visual Studio integration add-in... somewhere... you'll have to hunt around cyberspace and the Mono website for that. 
+So yeah, all-in-all, if you are a VB.NET programmer, I seriously suggest making the switch over to GTK#. Your potential Linux users will thank you. Also, if you REALLY don't want to switch from Visual Studio to MonoDevelop or another IDE built for GTK#, there is a GTK# Visual Studio integration add-in... somewhere... you'll have to hunt around cyberspace and the Mono website for that.

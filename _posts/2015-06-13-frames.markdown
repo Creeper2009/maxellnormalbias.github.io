@@ -2,6 +2,7 @@
 category: blog
 layout: post
 title: Why you shouldn't use frames.
+author: Jacob
 ---
 
 To quote some random person at the beginning of a Guns 'n' Roses song, "What we've got here is failure to communicate. Some men you just can't reach. So you get what we had here last week, which is the way he wants it. Well, he gets it!"

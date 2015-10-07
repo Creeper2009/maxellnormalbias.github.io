@@ -2,6 +2,7 @@
 title: "Collecting Windows Betas: Why I don't understand it"
 category: blog
 layout: post
+author: Jacob
 ---
 
 I don't know why people collect Windows betas. It's baffling to me. I've asked this before, actually, on the #nttalk IRC channel. What I got was simply answers like "to explore the history". And this article is about _why_ you would want to explore that history.

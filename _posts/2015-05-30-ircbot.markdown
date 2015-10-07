@@ -2,6 +2,7 @@
 layout: post
 category: software
 title: An IRC bot quote viewer
+author: Jacob
 ---
 
 This is some software I've been writing over the past few days: my very own IRC bot. And it has a web interface!

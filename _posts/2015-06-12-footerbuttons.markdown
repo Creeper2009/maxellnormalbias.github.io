@@ -2,6 +2,7 @@
 title: SVG 88x31 buttons that support Retina devices
 layout: post
 category: blog
+author: Jacob
 ---
 These are some buttons I made, that you can use on your site. They're like 88x31 buttons, but they're flat instead of beveled and they are actually SVG, so they scale over to high DPI displays just fine. Here they are:
 

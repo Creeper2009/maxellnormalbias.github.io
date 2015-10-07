@@ -2,6 +2,7 @@
 title: ix.io poster
 category: software
 layout: post
+author: Jacob
 ---
 This is just a quick tool to post pastes onto ix.io without the command line. When you click submit, you'll get the link to the ix.io page with your text on it.
 

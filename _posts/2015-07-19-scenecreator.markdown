@@ -2,6 +2,7 @@
 layout: post
 category: software
 title: Make scenes with video game sprites!
+author: Jacob
 ---
 
 <script src="/files/scene-creator/sc.min.js"></script>
